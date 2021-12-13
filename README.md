@@ -17,7 +17,6 @@ Imagine that you are the librarian of OOP University, and you need a tool to rec
 
 - Clone the repository with `git clone` https://github.com/DyaryRaoof/oop-school-library.git;
 - Open the cloned folder on the IDE of your choice;
-- Install dependencies with `bundle i`;
 - Copy decoder.rb code into irb;
 - then use the method decode_sentence(code_sentence) to decode your morse code;
 ## Authors
