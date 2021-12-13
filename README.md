@@ -1,35 +1,48 @@
 # Oop::School::Library
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/oop/school/library`. To experiment with that code, run `bin/console` for an interactive prompt.
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-TODO: Delete this and the text above, and describe your gem
+Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them. This app I created will allow a you to:
 
-## Installation
+- Add new students or teachers.
+- Add new books.
+- Save records of who borrowed a given book and when.
+- And all of this will be built in a beautiful and well-organized way!
 
-Add this line to your application's Gemfile:
+## Built With
 
-```ruby
-gem 'oop-school-library'
-```
+- Ruby
 
-And then execute:
+## Getting Started
 
-    $ bundle install
+- Clone the repository with `git clone` https://github.com/DyaryRaoof/oop-school-library.git;
+- Open the cloned folder on the IDE of your choice;
+- Install dependencies with `bundle i`;
+- Copy decoder.rb code into irb;
+- then use the method decode_sentence(code_sentence) to decode your morse code;
+## Authors
 
-Or install it yourself as:
+👤 **Dyary Raoof Bayz**
 
-    $ gem install oop-school-library
+- GitHub: [@DyaryRaoof](https://github.com/DyaryRaoof)
+- Twitter: [@DyaryRaoof](https://twitter.com/DyaryRaoof)
+- LinkedIn: [@DyaryRaoof](https://linkedin.com/in/DyaryRaoof)
 
-## Usage
+## 🤝 Contributing
 
-TODO: Write usage instructions here
+Contributions, issues, and feature requests are welcome!
 
-## Development
+Feel free to check the [issues page](../../issues/).
 
-After checking out the repo, run `bin/setup` to install dependencies. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
+## Show your support
 
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and the created tag, and push the `.gem` file to [rubygems.org](https://rubygems.org).
+Give a ⭐️ if you like this project!
 
-## Contributing
+## Acknowledgments
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/oop-school-library.
+- Hat tip to anyone whose code was used
+- Microverse
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
