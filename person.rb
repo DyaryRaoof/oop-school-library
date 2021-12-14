@@ -1,4 +1,5 @@
 require './corrector'
+require 'pry'
 
 class Person
   def initialize(age, name = 'Unknown', parent_permission: true)
@@ -26,7 +27,12 @@ class Person
 
   def validate_name
     @name = @corrector.correct_name(@name)
+    return s
   end
 
+
   private :of_age?
+
+binding.pry
+
 end
