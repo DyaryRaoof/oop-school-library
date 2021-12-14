@@ -5,7 +5,7 @@ class Corrector
 
   def correct_name
     @name = @name.capitalize
-    @name = @name[0, 9] if @name.length > 10
+    @name = @name[0, 10] if @name.length > 10
     @name
   end
 end
