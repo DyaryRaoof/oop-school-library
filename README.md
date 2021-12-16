@@ -17,7 +17,7 @@ Imagine that you are the librarian of OOP University, and you need a tool to rec
 
 - Clone the repository with `git clone` https://github.com/DyaryRaoof/oop-school-library.git;
 - Open the cloned folder on the IDE of your choice;
-- copy the code and paste it into `irb`
+- Use `Ruby main.rb` to run the program
 ## Authors
 
 👤 **Dyary Raoof Bayz**
